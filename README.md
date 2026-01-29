@@ -8,14 +8,14 @@ A collection of statically linked, stripped binaries for penetration testing and
   - arch current, alpine 3.20, ubuntu 20.04
   - windows server 2016, windows 10, wine
 
-| Binary                                                     | Version | System      | Arch        | Source |
+| Binaries / Files         | Version | System      | Arch        |  |
 | ------------------------------------------------------------ | ------- | ----------- | ----------- | ----------- |
 | [ligolo-ng](binaries/ligolo-ng)  | 0.8.2   | Linux / Windows | amd64 / 386 | [GitHub](https://github.com/nicocha30/ligolo-ng) |
 | [kerbrute](binaries/kerbrute) | 1.0.3   | Linux / Windows | amd64 / 386 | [GitHub](https://github.com/ropnop/kerbrute/releases) |
 | [chisel](binaries/chisel)        | 1.11.3  | Linux / Windows | amd64 / 386 | [GitHub](https://github.com/jpillora/chisel) |
 | [gocat](binaries/gocat)        | 2.14    | Linux / Windows | amd64 / 386 | [GitHub](https://github.com/ibrahmsql/Gocat) |
 | [ptunnel-ng](binaries/ptunnel-ng)   | 1.43    | Linux   | amd64 / 386 | [GitHub](https://github.com/utoni/ptunnel-ng) |
-| [socat](binaries/socat)         | 1.8.0  | Linux  | amd64 / 386 | [Release Page](http://www.dest-unreach.org/socat/) |
+| [socat](binaries/socat)         | 1.8.0  | Linux  | amd64 / 386 | [dest-unreach](http://www.dest-unreach.org/socat/) |
 | [GNU netcat](binaries/nc) (nc) | 0.7.1   | Linux / Windows | amd64 / 386 | [Sourceforge](https://sourceforge.net/projects/netcat/files/netcat/0.7.1/) |
 | [Nmap ncat](binaries/ncat)                 | 7.93    | Linux / Windows | amd64 / 386 | [Nmap](https://nmap.org/ncat/) |
 | [busybox](binaries/busybox)        | 1.35.0  | Linux  | amd64 / 386 | [GitHub](https://github.com/mirror/busybox) |
