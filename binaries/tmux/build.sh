@@ -9,13 +9,13 @@ build_in_docker() {
 
     echo "--- Building tmux for $ARCH using $IMAGE ---"
 
-    docker build -f Dockerfile.tmux --build-arg BASE_IMAGE=$IMAGE -t builder-tmux-$ARCH .
+    docker build -f Dockerfile --build-arg BASE_IMAGE=$IMAGE -t builder-tmux-$ARCH .
 
     docker run --rm -v "$(pwd)/binaries:/output" builder-tmux-$ARCH sh -c '
         echo "Cloning tmux..."
         git clone https://github.com/tmux/tmux.git
         cd tmux
-        git checkout 3.5a
+        git checkout 3.6b
 
         echo "Configuring..."
         ./autogen.sh
