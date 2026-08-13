@@ -10,9 +10,9 @@ A collection of statically linked, stripped binaries for penetration testing and
 
 | Binaries / Files         | Version | System      | Arch        |  |
 | ------------------------------------------------------------ | ------- | ----------- | ----------- | ----------- |
-| [ligolo-ng](binaries/ligolo-ng)  | 0.8.3  | Linux / Windows | amd64 / 386 | [GitHub](https://github.com/nicocha30/ligolo-ng) |
+| [ligolo-ng](binaries/ligolo-ng)  | 0.9.1 | Linux / Windows | amd64 / 386 | [GitHub](https://github.com/nicocha30/ligolo-ng) |
 | [kerbrute](binaries/kerbrute) | 1.0.3   | Linux / Windows | amd64 / 386 | [GitHub](https://github.com/ropnop/kerbrute/releases) |
-| [chisel](binaries/chisel)        | 1.11.5 | Linux / Windows | amd64 / 386 | [GitHub](https://github.com/jpillora/chisel) |
+| [chisel](binaries/chisel)        | 1.11.8 | Linux / Windows | amd64 / 386 | [GitHub](https://github.com/jpillora/chisel) |
 | [gocat](binaries/gocat)        | 2.14    | Linux / Windows | amd64 / 386 | [GitHub](https://github.com/ibrahmsql/Gocat) |
 | [ptunnel-ng](binaries/ptunnel-ng)   | 1.43    | Linux   | amd64 / 386 | [GitHub](https://github.com/utoni/ptunnel-ng) |
 | [socat](binaries/socat)         | 1.8.1.1 | Linux  | amd64 / 386 | [dest-unreach](http://www.dest-unreach.org/socat/) |
