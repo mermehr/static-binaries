@@ -10,7 +10,7 @@ A collection of statically linked, stripped binaries for penetration testing and
 
 | Binaries / Files         | Version | System      | Arch        |  |
 | ------------------------------------------------------------ | ------- | ----------- | ----------- | ----------- |
-| [ligolo-ng](binaries/ligolo-ng)  | 0.9.1 | Linux / Windows | amd64 / 386 | [GitHub](https://github.com/nicocha30/ligolo-ng) |
+| [ligolo-ng](binaries/ligolo-ng)  | 0.9.2 | Linux / Windows | amd64 / 386 | [GitHub](https://github.com/nicocha30/ligolo-ng) |
 | [kerbrute](binaries/kerbrute) | 1.0.3   | Linux / Windows | amd64 / 386 | [GitHub](https://github.com/ropnop/kerbrute/releases) |
 | [chisel](binaries/chisel)        | 1.11.8 | Linux / Windows | amd64 / 386 | [GitHub](https://github.com/jpillora/chisel) |
 | [gocat](binaries/gocat)        | 2.14    | Linux / Windows | amd64 / 386 | [GitHub](https://github.com/ibrahmsql/Gocat) |
